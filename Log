@@ -1,0 +1,41 @@
+==========
+Honduras:
+==========
+#Times in seconds for each stage, final temps for each stage in Celsius
+[DEFAULT]
+DryingTime = 270
+DryingTemp = 150
+FirstCrackTime = 270
+FirstCrackTemp = 210
+FinishTime = 170
+FinishTemp = 228
+SerialPort = /dev/tty.usbserial-1410 
+
+Bad, tastes very grassy and acid, neds more time to develop at the end
+
+
+[DEFAULT]
+DryingTime = 270
+DryingTemp = 150
+FirstCrackTime = 270
+FirstCrackTemp = 210
+FinishTime = 210
+FinishTemp = 229
+SerialPort = /dev/tty.usbserial-1410 
+
+Ok, but lacking the taste that tells me its honduras. Finish temp to 230. Finish time to 220. Drying time 230.
+
+===========
+Decaf roma:
+===========
+#Times in seconds for each stage, final temps for each stage in Celsius
+[DEFAULT]
+DryingTime = 270
+DryingTemp = 150
+FirstCrackTime = 300
+FirstCrackTemp = 210
+FinishTime = 240
+FinishTemp = 235
+SerialPort = /dev/tty.usbserial-1410 
+
+Good, but tastes "cereally", like most roasts I do. Cut drying time.
